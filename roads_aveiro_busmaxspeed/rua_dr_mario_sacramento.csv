@@ -1,4 +1,4 @@
-,id,u,v,key,osmid,name,maxspeed,highway,oneway,length,geometry,lanes,ref,bridge,junction,access,tunnel,width
+,my_id,u,v,key,osmid,name,maxspeed,highway,oneway,length,geometry,lanes,ref,bridge,junction,access,tunnel,width
 1,323,534823173,1489591591,0,135660357,Rua Doutor Mário Sacramento,50,residential,True,19.43,"LINESTRING (-8.647594700000001 40.6272558, -8.6476735 40.6273315, -8.6477007 40.627407)",1,,,,,,
 2,361,534823197,1272148948,0,538194728,Rua Doutor Mário Sacramento,50,residential,False,51.059,"LINESTRING (-8.6477374 40.6274926, -8.6477922 40.6279499)",3,,,,,,
 3,362,534823197,534823160,0,135660331,Rua Doutor Mário Sacramento,50,residential,True,31.108999999999998,"LINESTRING (-8.6477374 40.6274926, -8.6477416 40.627339, -8.647789 40.6272181)",2,,,,,,
